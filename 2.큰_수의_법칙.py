@@ -13,5 +13,3 @@ def biggger_rule(n, m, k, numbers):
 
 result = biggger_rule(5, 8, 3, [2,4,5,4,6])
 print(result)
-
-# 푸는데 걸린 시간 14분 (총 제한 시간 30분)

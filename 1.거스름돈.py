@@ -8,5 +8,3 @@ def exchange(n):
 
 result = exchange(1270)
 print(result)
-
-# 푸는데 걸린 시간 5분

@@ -5,3 +5,6 @@ def exchange(n):
         mod, n = divmod(n, coin_type)
         count += mod
     return count
+
+result = exchange(1270)
+print(result)
